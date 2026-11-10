@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /quase-la/
+
+Sitemap: https://ethoseasuna.com.br/sitemap.xml
