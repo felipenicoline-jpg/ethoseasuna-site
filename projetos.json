@@ -1,0 +1,86 @@
+[
+ {
+  "nome": "p01",
+  "w": 640,
+  "h": 427,
+  "alt": "Fachada de um dos empreendimentos ao entardecer"
+ },
+ {
+  "nome": "p02",
+  "w": 480,
+  "h": 640,
+  "alt": "Torre residencial ao pôr do sol"
+ },
+ {
+  "nome": "p03",
+  "w": 480,
+  "h": 640,
+  "alt": "Torre residencial ao entardecer"
+ },
+ {
+  "nome": "p04",
+  "w": 640,
+  "h": 480,
+  "alt": "Conjunto de torres residenciais"
+ },
+ {
+  "nome": "p05",
+  "w": 640,
+  "h": 427,
+  "alt": "Vista aérea do bairro com o empreendimento"
+ },
+ {
+  "nome": "p06",
+  "w": 560,
+  "h": 560,
+  "alt": "Piscina com espreguiçadeiras"
+ },
+ {
+  "nome": "p07",
+  "w": 640,
+  "h": 427,
+  "alt": "Piscina com raia"
+ },
+ {
+  "nome": "p08",
+  "w": 640,
+  "h": 480,
+  "alt": "Terraço com lareira ao entardecer"
+ },
+ {
+  "nome": "p09",
+  "w": 640,
+  "h": 427,
+  "alt": "Terraço com sofás e jardim"
+ },
+ {
+  "nome": "p10",
+  "w": 640,
+  "h": 427,
+  "alt": "Salão de festas"
+ },
+ {
+  "nome": "p11",
+  "w": 640,
+  "h": 427,
+  "alt": "Lounge do condomínio"
+ },
+ {
+  "nome": "p12",
+  "w": 560,
+  "h": 484,
+  "alt": "Planta humanizada de apartamento"
+ },
+ {
+  "nome": "p13",
+  "w": 640,
+  "h": 460,
+  "alt": "Planta humanizada de apartamento"
+ },
+ {
+  "nome": "p14",
+  "w": 640,
+  "h": 427,
+  "alt": "Espaço gourmet"
+ }
+]
