@@ -1,86 +1,156 @@
 [
  {
   "nome": "p01",
-  "w": 640,
-  "h": 427,
+  "w": 3,
+  "h": 2,
+  "larguras": [
+   400,
+   720,
+   1080
+  ],
   "alt": "Fachada de um dos empreendimentos ao entardecer"
  },
  {
   "nome": "p02",
-  "w": 480,
-  "h": 640,
+  "w": 3,
+  "h": 4,
+  "larguras": [
+   400,
+   720,
+   810
+  ],
   "alt": "Torre residencial ao pôr do sol"
  },
  {
   "nome": "p03",
-  "w": 480,
-  "h": 640,
+  "w": 3,
+  "h": 4,
+  "larguras": [
+   400,
+   720,
+   1080
+  ],
   "alt": "Torre residencial ao entardecer"
  },
  {
   "nome": "p04",
-  "w": 640,
-  "h": 480,
+  "w": 4,
+  "h": 3,
+  "larguras": [
+   400,
+   720,
+   1080
+  ],
   "alt": "Conjunto de torres residenciais"
  },
  {
   "nome": "p05",
-  "w": 640,
-  "h": 427,
+  "w": 3,
+  "h": 2,
+  "larguras": [
+   400,
+   720,
+   1080
+  ],
   "alt": "Vista aérea do bairro com o empreendimento"
  },
  {
   "nome": "p06",
-  "w": 560,
-  "h": 560,
+  "w": 1,
+  "h": 1,
+  "larguras": [
+   400,
+   720,
+   1080
+  ],
   "alt": "Piscina com espreguiçadeiras"
  },
  {
   "nome": "p07",
-  "w": 640,
-  "h": 427,
+  "w": 3,
+  "h": 2,
+  "larguras": [
+   400,
+   720,
+   1080
+  ],
   "alt": "Piscina com raia"
  },
  {
   "nome": "p08",
-  "w": 640,
-  "h": 480,
+  "w": 4,
+  "h": 3,
+  "larguras": [
+   400,
+   720,
+   1080
+  ],
   "alt": "Terraço com lareira ao entardecer"
  },
  {
   "nome": "p09",
-  "w": 640,
-  "h": 427,
+  "w": 3,
+  "h": 2,
+  "larguras": [
+   400,
+   720,
+   1080
+  ],
   "alt": "Terraço com sofás e jardim"
  },
  {
   "nome": "p10",
-  "w": 640,
-  "h": 427,
+  "w": 3,
+  "h": 2,
+  "larguras": [
+   400,
+   720,
+   1080
+  ],
   "alt": "Salão de festas"
  },
  {
   "nome": "p11",
-  "w": 640,
-  "h": 427,
+  "w": 3,
+  "h": 2,
+  "larguras": [
+   400,
+   720,
+   1080
+  ],
   "alt": "Lounge do condomínio"
  },
  {
   "nome": "p12",
   "w": 560,
   "h": 484,
+  "larguras": [
+   400,
+   720,
+   986
+  ],
   "alt": "Planta humanizada de apartamento"
  },
  {
   "nome": "p13",
   "w": 640,
   "h": 460,
+  "larguras": [
+   400,
+   720,
+   1080
+  ],
   "alt": "Planta humanizada de apartamento"
  },
  {
   "nome": "p14",
-  "w": 640,
-  "h": 427,
+  "w": 3,
+  "h": 2,
+  "larguras": [
+   400,
+   720,
+   1080
+  ],
   "alt": "Espaço gourmet"
  }
 ]
